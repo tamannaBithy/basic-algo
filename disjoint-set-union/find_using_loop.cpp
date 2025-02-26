@@ -19,7 +19,7 @@ int main()
     par[1] = -1;
     par[2] = 1;
     par[3] = 1;
-    par[4] = 4;
+    par[4] = 5;
     par[5] = 3;
 
     cout << find(4) << endl;
