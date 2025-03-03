@@ -10,10 +10,12 @@ int main()
     fibo[1] = 1;
     for (int i = 2; i <= n; i++)
     {
-        fibo[i] = fibo[i - 1] + fibo[i - 2];
+        fibo[i] = fibo[i - 1] + fibo[i - 2]; // this is the memoization
     }
 
     cout << fibo[n] << endl;
 
     return 0;
 }
+
+// aita already optimized & aitar complexity O(n)
