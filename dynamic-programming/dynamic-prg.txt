@@ -1,0 +1,6 @@
+dynamic programming holo recursion + optimization. mane jekono recursion aro optimized way te kora e holo dynamic programming er kaj.
+muloto DP dui prokar
+1. top to down => recursion
+2. bottom to up => loop
+
+ai duita e optimized way te kora holo dp. r ai optimizationer jonno muloto memoization concept use kora hoy. most of the DP recursion diyei kori amra karon loop diye onk problem solve kora tulonamulok jotil & kokhno kokhno time complexity o besi hoy.
