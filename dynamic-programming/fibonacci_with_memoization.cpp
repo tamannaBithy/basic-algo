@@ -20,3 +20,5 @@ int main()
     cout << fibo(n);
     return 0;
 }
+
+// now complexity O(N) & it is the optimized version
