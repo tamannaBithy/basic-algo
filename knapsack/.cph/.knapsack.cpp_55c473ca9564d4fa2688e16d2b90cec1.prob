@@ -1,0 +1,1 @@
+{"name":"Local: knapsack","url":"c:\\projects\\PHITRON\\basic-algo\\knapsack\\knapsack.cpp","tests":[{"id":1741249017507,"input":"4\n10 4 7 5\n4 3 2 5\n8","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\projects\\PHITRON\\basic-algo\\knapsack\\knapsack.cpp","group":"local","local":true}
