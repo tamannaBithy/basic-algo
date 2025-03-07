@@ -20,6 +20,9 @@ int main()
         int n;
         cin >> n;
         rec(n);
+        if (n == 0)
+            cout << 0;
+
         cout << endl;
     }
 
